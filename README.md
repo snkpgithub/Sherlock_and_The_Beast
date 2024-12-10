@@ -73,14 +73,6 @@ def test_decent_number():
 - 1 ≤ n ≤ 100000
 - Input will be an integer representing the desired length of the decent number
 
-## Project Structure
-```
-decent-number-generator/
-├── README.md
-├── decent_number.py
-├── test_decent_number.py
-└── requirements.txt
-```
 
 ## Contributing
 1. Fork the repository
@@ -89,8 +81,9 @@ decent-number-generator/
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+![image](https://github.com/user-attachments/assets/6d77a5b5-4c6c-4965-939e-886b40ae1ac8)
+
 
 ## Acknowledgments
 - Original problem from HackerRank
